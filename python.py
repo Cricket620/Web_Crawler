@@ -1,5 +1,6 @@
-#THIS IS A WORK IN PROGRESS - NOT FUNCTIONAL
-#This script pulls all URLs in HTML and prints them.
+#THIS IS A WORK IN PROGRESS
+#Developed as part of CS101 from Udacity
+#This script pulls all URLs out of HTML and prints them.
 
 page =('<div id="top_bin"><div id="top_content" class="width960">'
 '<div class="udacity float-left"><a href="http://udacity.com">')
